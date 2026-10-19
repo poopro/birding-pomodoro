@@ -6,9 +6,11 @@
 一個會在休息時「揭曉一隻鳥」的番茄鐘。
 **29 張照片全部是我自己 2025–2026 年在臺灣各地拍的鳥。**
 
-## 線上demo
+## 線上 demo
 
-> 部署後連結貼在此（Settings → Pages 取得）
+**https://poopro.github.io/birding-pomodoro/**
+
+（原始碼：https://github.com/poopro/birding-pomodoro）
 
 ## 特色
 

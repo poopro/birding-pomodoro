@@ -212,7 +212,7 @@ python _shots_final.py   # 用無頭 Chrome 產生繳交用截圖到 screenshots
 - [x] 手機 390px 版面無水平溢出，可正常使用
 - [x] Console 無任何錯誤
 - [x] **29 張照片全部為本人實拍**，無外部來源
-- [ ] 部署至 GitHub Pages（連結待補）
+- [x] 部署至 GitHub Pages → https://poopro.github.io/birding-pomodoro/
 
 ---
 
